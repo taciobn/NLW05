@@ -1,0 +1,7 @@
+
+comando para criar uma migration
+npm run typeorm migration:create -- -n Nome_da_migration
+
+
+pm run typeorm migration:run
+
